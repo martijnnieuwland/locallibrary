@@ -1,0 +1,27 @@
+.sidebar-nav {
+  margin-top: 20px;
+  padding: 0;
+  list-style: none;
+}
+
+.sidebar-nav a {
+  text-decoration: none;
+}
+
+.book-list a {
+  text-decoration: none;
+}
+
+.author-list a {
+  text-decoration: none;
+}
+
+#logout-form {
+  display: inline;
+}
+
+#logout-form button {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
